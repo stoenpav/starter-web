@@ -2,8 +2,10 @@
 # The humans responsible & technology colophon
 # this is a comment
 # TEAM
-dsadasfdsfsd
-
+# dsadasfdsfsd
+# This is my new feature
+# dsadasda
+# another new feature
     <name> -- <role> -- <twitter>
 
 # THANKS
